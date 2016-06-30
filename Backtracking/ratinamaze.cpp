@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//done with this program
 #define N 4
 
 bool isSafe(int arr[N][N], int x, int y);
